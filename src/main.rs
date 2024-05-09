@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello World!");
+    hello_world::print_hello_world();
 }
