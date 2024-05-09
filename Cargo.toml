@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+argparse = "0.2.2"
 
 [dependencies.hello_world]
 path = "lib/hello_world"
